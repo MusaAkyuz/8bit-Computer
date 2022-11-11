@@ -1,0 +1,20 @@
+İsim
+555 Zamanlayıcı Entegresi 
+100 Ohm - 1M Ohm arasında çeşit çeşit dirençler
+Renkli ledler
+Seramik ve Normal kapasitörler
+Jumper kablolama seti
+Renkli kablolar
+Anahtar ve switch (PUSH - DIP - NORMAL)
+VE kapıları
+VEYA kapıları
+NOT kapıları
+XOR kapıları
+TOPLAMA ENTEGRESİ
+D TİPİ KAYDEDİCİ ENTEGRESİ
+Multiplexerlar
+3 state buffer
+RAM MODÜLÜ
+EEPROM MODÜLÜ
+Transistörler
+Karşılaştırıcı ENTEGRELER
