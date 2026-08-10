@@ -1,0 +1,22 @@
+# ---- Proteus generated / machine-specific files ----
+# Per-machine window layout, regenerated on open
+*.workspace
+# Auto-save and timestamped backups Proteus writes next to the project
+Project Backups/
+*[Autosaved].pdsprj
+# Simulation and netlist output, regenerated from the .pdsprj
+*.DO
+*.EDF
+*.log
+*.sts
+*.rte
+*.SDF
+*.LST
+
+# ---- Office temp/lock files ----
+~$*
+
+# ---- OS noise ----
+Thumbs.db
+Desktop.ini
+.DS_Store

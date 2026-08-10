@@ -1,1 +1,19 @@
+# Normalize text files to LF in the repository and on checkout.
+* text=auto eol=lf
 
+# Proteus project files are binary - never diff or line-ending-convert them
+*.pdsprj binary
+*.rte binary
+*.ksp binary
+
+# Binary assets
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.bmp binary
+*.PNG binary
+*.eps binary
+*.pdf binary
+*.docx binary
+*.xlsx binary
+*.ods binary
